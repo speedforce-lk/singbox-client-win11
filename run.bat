@@ -1,0 +1,1 @@
+.\sing-box.exe -D .\ -c .\config.json run
